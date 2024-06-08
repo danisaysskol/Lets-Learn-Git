@@ -5,5 +5,5 @@ int main()
 {
 	int a = 10;
 	int b = 15;
-	cout<<a+b;
+	cout<<"The sum is"<<a+b<<endl;
 }
